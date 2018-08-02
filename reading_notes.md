@@ -27,3 +27,5 @@ Cat() is for printing out a list of strings, add "\n" at the end.
 Missing values: 
 
 Function C for cat
+
+## Chapter 2
